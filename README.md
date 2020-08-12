@@ -16,6 +16,8 @@ This tutorial uses Postman to test the web API.
 1 Create a new request.
 
 2 Set the HTTP method to POST.
+                
+                https://localhost:{port}/api/TodoItems
 
 3 Select the Body tab.
 

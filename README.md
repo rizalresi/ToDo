@@ -40,10 +40,15 @@ This tutorial uses Postman to test the web API.
          }
 
 ## ScreenShot 
+# Create ToDo
 ![DESIGN IMAGE](http://images.rizalresi.com/post.png?raw=true)
+# Get All Todo’s
 ![DESIGN IMAGE](http://images.rizalresi.com/getall.png?raw=true)
+# Get Update Todo
 ![DESIGN IMAGE](http://images.rizalresi.com/put.png?raw=true)
+# Get Specific Todo
 ![DESIGN IMAGE](http://images.rizalresi.com/get{id}.png?raw=true)
+# Delete ToDo
 ![DESIGN IMAGE](http://images.rizalresi.com/Delete.png?raw=true)
 ![DESIGN IMAGE](http://images.rizalresi.com/show_get_delete.png?raw=true)
 

@@ -24,9 +24,6 @@ This tutorial uses Postman to test the web API.
 5 Set the type to JSON (application/json).
 
 6 In the request body enter JSON for a to-do item
-  
-
-4. MySql
 
         {
           "name":"resi gautama",

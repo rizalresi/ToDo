@@ -13,28 +13,28 @@ This tutorial uses Postman to test the web API.
 
 ## Test PostTodoItem with Postman
 
-- Create a new request.
+1 Create a new request.
 
-- Set the HTTP method to POST.
+2 Set the HTTP method to POST.
 
-- Select the Body tab.
+3 Select the Body tab.
 
-- Select the raw radio button.
+4 Select the raw radio button.
 
-- Set the type to JSON (application/json).
+5 Set the type to JSON (application/json).
 
-- In the request body enter JSON for a to-do item:
-  {
+6 In the request body enter JSON for a to-do item
+  
+
+4. MySql
+
+        {
   "name":"resi gautama",
   "DateTime":"2012-04-23T18:25:43.511Z",
   "Title":"Mr",
   "Description":"Im herro",
   "Complete": 50
 }
-
-4. MySql
-
-        docker run --name mysql -d -p 3306:3306 --restart always -e MYSQL_ROOT_PASSWORD=1qazZAQ! mysql:5.7
 
 ## ScreenShot 
 ![DESIGN IMAGE](http://images.rizalresi.com/post.png?raw=true)

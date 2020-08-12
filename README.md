@@ -35,4 +35,8 @@ This tutorial uses Postman to test the web API.
 ## ScreenShot 
 ![DESIGN IMAGE](http://images.rizalresi.com/post.png?raw=true)
 ![DESIGN IMAGE](http://images.rizalresi.com/getall.png?raw=true)
+![DESIGN IMAGE](http://images.rizalresi.com/put.png?raw=true)
+![DESIGN IMAGE](http://images.rizalresi.com/get{id}.png?raw=true)
+![DESIGN IMAGE](http://images.rizalresi.com/Delete.png?raw=true)
+![DESIGN IMAGE](http://images.rizalresi.com/show_get_delete.png?raw=true)
 

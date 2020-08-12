@@ -6,6 +6,7 @@
 This tutorial uses Postman to test the web API.
 
 - Install Postman 
+              https://www.postman.com/
 - Start the web app
 - Start Postman 
 - Disable SSL certificate verification 

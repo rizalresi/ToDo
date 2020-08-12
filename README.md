@@ -11,7 +11,7 @@ This tutorial uses Postman to test the web API.
 - Start Postman 
 - Disable SSL certificate verification 
 - From File > Settings (General tab), disable SSL certificate verification
-
+![DESIGN IMAGE](http://images.rizalresi.com/setting.png?raw=true)
 ## Test PostTodoItem with Postman
 
 1 Create a new request.

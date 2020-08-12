@@ -32,6 +32,10 @@ This tutorial uses Postman to test the web API.
   "Complete": 50
 }
 
+4. MySql
+
+        docker run --name mysql -d -p 3306:3306 --restart always -e MYSQL_ROOT_PASSWORD=1qazZAQ! mysql:5.7
+
 ## ScreenShot 
 ![DESIGN IMAGE](http://images.rizalresi.com/post.png?raw=true)
 ![DESIGN IMAGE](http://images.rizalresi.com/getall.png?raw=true)
